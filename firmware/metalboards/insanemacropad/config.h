@@ -3,8 +3,8 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x6F75 // OU
-#define MANUFACTURER    Metal Boards
+#define VENDOR_ID       0x1209 // OU
+#define MANUFACTURER    MetalBoards
 #define PRODUCT         InsaneMacroPad
 
 /* key matrix size */
