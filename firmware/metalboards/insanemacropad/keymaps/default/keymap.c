@@ -6,6 +6,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         LCA(KC_F17), LCA(KC_F18), LCA(KC_F19), LCA(KC_F20),
         LSA(KC_F13), LSA(KC_F14), LSA(KC_F15), LSA(KC_F16),
         LSA(KC_F17), LSA(KC_F18), LSA(KC_F19), LSA(KC_F20)
+    ),
+    LAYOUT_encoder_4x4(
+        KC_MUTE, LCA(KC_F14), LCA(KC_F15), KC_MPLY,
+        LCA(KC_F17), LCA(KC_F18), LCA(KC_F19), LCA(KC_F20),
+        LSA(KC_F13), LSA(KC_F14), LSA(KC_F15), LSA(KC_F16),
+        LSA(KC_F17), LSA(KC_F18), LSA(KC_F19), LSA(KC_F20)
     )
 };
 

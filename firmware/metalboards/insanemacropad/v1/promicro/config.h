@@ -20,7 +20,6 @@
 /* Encoder pins */
 #define ENCODERS_PAD_A { B1, B2 }
 #define ENCODERS_PAD_B { B3, B6 }
-#define ENCODER_RESOLUTION 4
-#define ENCODER_DIRECTION_FLIP
+#define ENCODER_RESOLUTION 2
 
 
